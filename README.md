@@ -7,9 +7,10 @@ Download latest "version.dll" from [here](https://github.com/emoisback/Helldiver
 Download latest "Helldivers 2" executable from the 'releases' tab ----->
 
 Place both files in the same folder, use EXE to start the game!
+IMPORTANT: DO NOT PLACE THESE IN YOUR HELLDIVERS 'bin'
 
 Continue to use the EXE to start the game as it will continue to re-hash the original .dll (this is to avoid the anti-cheat)
 
-When the "version.dll" gets an update, just swap out the DLL alongside the EXE, and run the EXE, simple :)
+When the "version.dll" gets an update, just swap out the DLL (which is in the same folder as the EXE), to the new one, and run the EXE, simple! :)
 
 Happy cheating!
