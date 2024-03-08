@@ -1,4 +1,4 @@
-# HD2 Hacked Launcher
+# HELLDIVERS 2 (emoisback DLL) Launcher
 ## Usage
 Download latest "version.dll" from [here](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC/actions)
 
