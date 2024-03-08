@@ -1,5 +1,7 @@
 # HELLDIVERS 2 (emoisback DLL) Launcher
 ## Usage
+**DELETE ANY EXISTING 'version.dll' FROM YOUR GAME FILES**
+
 Download latest "version.dll" from [here](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC/actions)
 
 Download latest "Helldivers 2" executable from the 'releases' tab ----->
