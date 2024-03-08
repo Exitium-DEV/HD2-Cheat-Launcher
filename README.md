@@ -5,6 +5,7 @@ Custom launch binary for Helldivers 2, with the objective of reducing detection 
 **DELETE ANY EXISTING 'version.dll' FROM YOUR GAME FILES**
 
 Download latest "version.dll" from [here](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC/actions)
+
 **I STRONGLY SUGGEST YOU COMPILE YOUR OWN DLL, AND MODIFY THE STRINGS**
 
 Download latest "Helldivers 2" executable from the 'releases' tab ----->
