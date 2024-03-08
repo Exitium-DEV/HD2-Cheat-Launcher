@@ -1,4 +1,6 @@
 # HELLDIVERS 2 (emoisback DLL) Launcher
+Custom launch binary for Helldivers 2, with the objective of reducing detection rate of 'version.dll' hacks
+
 ## Usage
 **DELETE ANY EXISTING 'version.dll' FROM YOUR GAME FILES**
 
