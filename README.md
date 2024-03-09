@@ -20,3 +20,6 @@ Continue to use the EXE to start the game as it will continue to re-hash the ori
 When the "version.dll" gets an update, just swap out the DLL (which is in the same folder as the EXE), to the new one, and run the EXE, simple! :)
 
 Happy cheating!
+
+# NEED HELP?
+Join the [Discord](https://discord.gg/FfG5Fx4sa8)
